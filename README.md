@@ -12,7 +12,8 @@ Auf diesen Sieten:
 ##
  FUN:
 
-[35B LLM auf nur 6GB VRAM? So geht's lokal! ]
+[35B LLM auf nur 6GB VRAM? So geht's lokal! 
+]
 (https://www.youtube.com/watch?v=WrSZ7_KIGjs) 
 
 
