@@ -9,9 +9,9 @@ Auf diesen Sieten:
 ](https://www.youtube.com/watch?v=aF_p4TcMNv0&t=20s)
 
 
-
-## FUN:
 ##
+## FUN:
+
 [35B LLM auf nur 6GB VRAM? So geht's lokal! 
 (https://www.youtube.com/watch?v=WrSZ7_KIGjs) ]
 
