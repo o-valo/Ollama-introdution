@@ -1,6 +1,6 @@
 Auf diesen Sieten:
 
-## Ein einfacher Einstieg in Ollama :-)
+ Ein einfacher Einstieg in Ollama :-)
 
 [Der Ollama Spickzettel ](https://github.com/o-valo/Ollama-introdution/blob/main/VORTRAEGS-SPICKZETTEL.md)
 
@@ -10,7 +10,7 @@ Auf diesen Sieten:
 
 
 ##
-## FUN:
+ FUN:
 
 [35B LLM auf nur 6GB VRAM? So geht's lokal! 
 (https://www.youtube.com/watch?v=WrSZ7_KIGjs) ]
