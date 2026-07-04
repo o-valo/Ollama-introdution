@@ -1,3 +1,5 @@
+Lokale KI ist für mich kein Buzzword, sondern ein Bereich, den ich aktiv weiterentwickle und produktiv einsetze. 
+
 Auf diesen Sieten:
 
  Ein einfacher Einstieg in Ollama :-)
