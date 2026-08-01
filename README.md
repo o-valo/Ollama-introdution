@@ -12,9 +12,10 @@ Auf diesen Sieten:
 
 
 ##
+
  [Beispiel für Tool Calling ](./llm-tool-call.py). mit einem Raspberry PI5 :-)
  
-
+[Der brainagent  ](https://github.com/o-valo/brainagent/tree/main)
 
 
 ##
