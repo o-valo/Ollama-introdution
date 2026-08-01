@@ -12,6 +12,12 @@ Auf diesen Sieten:
 
 
 ##
+## [Beispiel für Tool Calling ](./llm-tool-call.py).
+ 
+
+
+
+##
  FUN:
 
 [35B LLM auf nur 6GB VRAM? So geht's lokal! 
