@@ -12,7 +12,7 @@ Auf diesen Sieten:
 
 
 ##
-## [Beispiel für Tool Calling ](./llm-tool-call.py).
+ [Beispiel für Tool Calling ](./llm-tool-call.py). mit einem Raspberry PI5 :-)
  
 
 
